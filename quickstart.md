@@ -1,5 +1,6 @@
 ## 快速开始
 
+    cd <example>
     pipenv install
     pipenv shell
     python manage.py migrate
